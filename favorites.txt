@@ -10,3 +10,5 @@ Beef burger
 Shepherds Pie
 Carbonara
 Biryani
+Salmon
+Mackeral
