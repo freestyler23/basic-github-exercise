@@ -9,3 +9,5 @@ Prawn paella
 Beef burger
 Shepherds Pie
 Carbonara
+Salmon
+Mackeral
